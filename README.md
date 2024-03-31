@@ -8,7 +8,7 @@ Super Resolution Images are required to properly perceive the intricacies of any
 
 ## Overall Framework
 
-<p align="center"><img src="Images/Full Diagram.png" width="600" height=""></p>
+<p align="center"><img src="https://github.com/sen1997susmit/Super-Resolution-Images-using-DNN/blob/main/Images/Full%20Diagram.png" width="600" height=""></p>
 
 ## Model:
 
