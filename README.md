@@ -7,47 +7,43 @@ Super Resolution Images are required to properly perceive the intricacies of any
 
 
 ## Overall Framework
-<div align="center"><img src="Images/Full Diagram.png" width="600" height=""></div>
 
-## Model :
+<p align="center"><img src="Images/Full Diagram.png" width="600" height=""></p>
+
+## Model:
 
 AutoEn-GAN Model Architecture
 
-<div align="center"><img src="Images/AE_GAN.png" width="600" height=""></div>
+<p align="center"><img src="Images/AE_GAN.png" width="600" height=""></p>
 
-Residual Block 
+Residual Block
 
-<div align="center"><img src="Images/Comperison_Model.png" width="600" height=""></div>
+<p align="center"><img src="Images/Comparison_Model.png" width="600" height=""></p>
 
 Model Training
 
-<div align="center"><img src="Images/Training AEGAN.png" width="600" height=""></div>
-
+<p align="center"><img src="Images/Training_AEGAN.png" width="600" height=""></p>
 
 ## Results:
 
-<div align="center"><img src="Images/img-after.jpeg" width="600" height="""></div>
+<p align="center"><img src="Images/img-after.jpeg" width="600" height=""></p>
 
 Sample patches of all images after transfer learning and training of the model(a) Input Image, (b) Bicubic Interpolation, (c) EDSR, (d) SR(PRE), (e) SR(GAN), (f) Proposed Model, (g) Original Image
 
-<div align="center"><img src="Images/after training.jpg" width="600" height="""></div>
+<p align="center"><img src="Images/after_training.jpg" width="600" height=""></p>
 
 Comparison of the matrices (A) PSNR Values, (B) SSIM Values, (C) RMSE Values
 
-
-
 ## AutoEn-GAN App:
-<div align="center"><img src="Images/APP.png" width="600" height=""></div>
 
-  
+<p align="center"><img src="Images/APP.png" width="600" height=""></p>
 
 ## Quick Links:
 
 [![manual](https://img.shields.io/badge/Installation-Manual-red)](https://github.com/abhimanyubhowmik/Internship_Repository_RRSC_East-ISRO/blob/main/Documents/Installation%20Manual.pdf)
 
-
-
 ## References Used:
+
 - https://arxiv.org/abs/1609.04802
 - https://arxiv.org/abs/1707.02921
 - https://arxiv.org/abs/2203.09445
